@@ -1,0 +1,4 @@
+66	zhihu	police	cat	       1
+233	vans	pholi	fight	       0
+42	king	bili	fight	       7
+49	ubuntu	google	it	       0

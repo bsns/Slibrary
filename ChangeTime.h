@@ -1,0 +1,1 @@
+void getTimeByC(char s[]);
